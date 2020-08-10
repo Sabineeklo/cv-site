@@ -1,0 +1,132 @@
+body{
+	color: #40514E;
+	font-family: 'Merriweather', serif;
+	margin: 0;
+	text-align: center;
+	
+
+}
+h1{
+	color: #66BFBF;
+	font-family: 'Sacramento', cursive;
+	font-size: 5.625rem;
+	margin:50px auto 0 auto;
+	
+}
+h2{
+	color: #66BFBF;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 2.2rem;
+	font-weight: normal;
+	
+}
+h3{
+	color: #11999E;
+	font-family: 'Montserrat', sans-serif;
+	
+}
+
+
+.first{
+	background-color: #E4F9F6;
+	position: relative;
+	padding-top: 100px;
+
+}
+
+.firstCloud{
+	position: absolute;
+	right: 300px;
+	top:45px;
+}
+
+.secondCloud{
+	position: absolute;
+	left: 300px;
+	bottom: 300px;
+}
+.sabine{
+	height: 150px;
+	width: 150px;
+	border-radius: 100%;
+	margin-top: 30px;
+}
+.img-haircare{
+	float: right;
+	margin-left: 30px;
+	width: 23%;
+
+}
+.intro{
+	width: 30%;
+	margin: auto;
+}
+.contact-message{
+	width: 40%;
+	margin: 40px auto 60px;
+	
+}
+.contact-me{
+	height: 380px
+}
+.coding-img{
+	float: left;
+	width: 22%;
+	margin-right: 30px;
+}
+.skill-row{
+	width: 50%;
+	margin: 100px auto 100px auto;
+	text-align: left;
+	line-height: 2;
+
+}
+hr {
+	border-style: none;
+	border-top-style: dotted;
+	width: 6%;
+	border-color: #EAF6F6;
+	border-width: 5px;
+	margin:100px auto;
+}
+p{
+	
+	line-height: 2;
+	font-family: 'Montserrat', sans-serif;
+}
+.bottom-container{
+	background-color: #66BFBF;
+	padding: 40px 0 20px;
+	line-height: 2;
+}
+ a{
+	text-decoration: none;
+	color: #11999E;
+	margin: 10px 20px;
+	font-family: 'Montserrat', sans-serif;
+}
+a:hover{
+	color:  #EAF6F6;
+}
+.copyright{
+	color: #EAF6F6;
+	font-size: 0.75rem;
+	padding: 20px 0;
+}
+
+.btn {
+  -webkit-border-radius: 15;
+  -moz-border-radius: 15;
+  border-radius: 15px;
+  font-family: 'Montserrat', sans-serif;
+  color: #EAF6F6;
+  font-size: 20px;
+  background: #11999E;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #5fbcf5;
+  text-decoration: none;
+}
